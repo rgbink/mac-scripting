@@ -1,4 +1,4 @@
-#Dialectic Phone Dialing via LaunchBar
+#Dialectic Phone Dialing via LaunchBar (with method chooser)
 ##What it does: Choose Dialectic Dial Method before Dialing via LaunchBar
 
 ###Links:
