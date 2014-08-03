@@ -11,7 +11,6 @@ on handle_string(s)
 		set theList to (get name of every location)
 		choose from list theList with prompt "Please choose dialing location…"
 		set answer to item 1 of the result
-		--display dialog answer
 		set current of location answer to true
 	end tell
 
