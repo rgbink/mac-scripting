@@ -1,7 +1,7 @@
-#Dialectic Phone Dialing via LaunchBar (with method chooser)
-##What it does: Choose Dialectic Dial Method before Dialing via LaunchBar
+# Dialectic Phone Dialing via LaunchBar (with method chooser)
+## What it does: Choose Dialectic Dial Method before Dialing via LaunchBar
 
-###Links:
+### Links:
 [Dialectic](http://www.jonn8.com/dialectic/)
 [LaunchBar](http://www.obdev.at/products/launchbar/index.html)
 
@@ -12,4 +12,4 @@ What it does is intercept the [default Dialectic script](http://www.jonn8.com/di
 If you *do* have multiple dial methods (I have Skype, Cell phone (via Bluetooth), Home, and Business phone profiles), you will appreciate the ability to choose from among them before sending the number on to Dialectic.
 
 Enjoy.
-####Pro Tip: When the dialog appears, choose your method by typing the first letter of its name on the keyboard and hitting `Enter.`
+#### Pro Tip: When the dialog appears, choose your method by typing the first letter of its name on the keyboard and hitting `Enter.`
