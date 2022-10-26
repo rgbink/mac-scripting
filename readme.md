@@ -1,4 +1,4 @@
-#Mac Scripting Public Repo
+# Mac Scripting Public Repo
 
 This is a simple repo of various scripts that have particularly useful functionality in day-to-day operation on a Mac OS system.
 
